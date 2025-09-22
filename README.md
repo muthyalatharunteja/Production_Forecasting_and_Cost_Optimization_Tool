@@ -102,4 +102,3 @@ When the macro runs, it automatically generates **four outputs** in the workbook
 
 ## License  
 This project is licensed under the **MIT License**. See the LICENSE file for details.  
-# Production_Forecasting_and_Cost_Optimization_Tool
