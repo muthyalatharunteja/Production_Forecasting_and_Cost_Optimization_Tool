@@ -37,8 +37,7 @@ This is an **advanced Excel VBA automation project** designed to simulate a **3-
 
 ## Project Output
 
-When the macro runs, it automatically generates **four outputs** in the workbook:
-**[macrologic.bas](macrologic.bas)** 
+When the **[macro](macrologic.bas)** runs, it automatically generates **four outputs** in the workbook:
 
 ### 📅 Calendar
 - Lists each client, their batch, and the exact dates for the three production steps (Cutting, Assembly, Finishing).  
