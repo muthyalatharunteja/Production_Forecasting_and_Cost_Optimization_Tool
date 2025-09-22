@@ -52,7 +52,7 @@ When the macro runs, it automatically generates **four outputs** in the workbook
 ### 💰 Cost Summary
 - Calculates **monthly production costs, handling costs, and total costs**.  
 - Flags when the **bonus** (after 10 clients completed) is triggered.
-  ![cost summary](images/cost_summary.png) 
+  ![cost_summary](images/cost_summary.png) 
 
 ### 📈 Dashboard
 - A chart of **Monthly Production Steps**.  
