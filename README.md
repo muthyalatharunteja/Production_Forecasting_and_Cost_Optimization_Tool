@@ -41,20 +41,23 @@ When the macro runs, it automatically generates **four outputs** in the workbook
 
 ### 📅 Calendar
 - Lists each client, their batch, and the exact dates for the three production steps (Cutting, Assembly, Finishing).  
-- Helps managers see **who is scheduled, and when**.  
+- Helps managers see **who is scheduled, and when**.
+  ![Calendar](images/Calendar.png)
 
 ### 📊 Forecast
 - Shows monthly totals: **how many steps** are needed and **how many clients** are completed cumulatively.  
-- Provides a **capacity planning view**.  
+- Provides a **capacity planning view**.
+  ![Forecast](images/Forecast.png) 
 
 ### 💰 Cost Summary
 - Calculates **monthly production costs, handling costs, and total costs**.  
-- Flags when the **bonus** (after 10 clients completed) is triggered.  
+- Flags when the **bonus** (after 10 clients completed) is triggered.
+  ![cost summary](images/cost summary.png) 
 
 ### 📈 Dashboard
 - A chart of **Monthly Production Steps**.  
 - Gives a quick **visual overview of workload across months**.  
-
+  ![Monthly Production Steps_dashboard](images/Monthly Production Steps_dashboard.png) 
 
 ---
 
