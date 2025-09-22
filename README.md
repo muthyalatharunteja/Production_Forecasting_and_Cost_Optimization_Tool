@@ -4,14 +4,14 @@
 ---
 
 ## 📑 Table of Contents  
-- [Project Description](#-project-description)  
-- [Repository Contents](#-repository-contents)  
-- [Project Output](#-project-output)  
-- [Key Business Insights](#-key-business-insights)  
-- [Recommendations](#-recommendations)  
-- [Known Issues (Bug Review)](#-known-issues--bugs-identified)  
-- [Future Enhancements](#-future-enhancements)  
-- [Tools & Skills Used](#-tools--skills-used)  
+- [Project Description](#project-description)  
+- [Repository Contents](#repository-contents)  
+- [Project Output](#project-output)  
+- [Key Business Insights](#key-business-insights)  
+- [Recommendations](#recommendations)  
+- [Known Issues (Bug Review)](#known-issues--bugs-identified)  
+- [Future Enhancements](#future-enhancements)  
+- [Tools & Skills Used](#tools--skills-used)  
 
 ---
 
