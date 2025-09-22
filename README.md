@@ -42,7 +42,7 @@ When the macro runs, it automatically generates **four outputs** in the workbook
 ### 📅 Calendar
 - Lists each client, their batch, and the exact dates for the three production steps (Cutting, Assembly, Finishing).  
 - Helps managers see **who is scheduled, and when**.
-  ![Calender](images/Calender.png)
+  ![Calender](images/calender.png)
 
 ### 📊 Forecast
 - Shows monthly totals: **how many steps** are needed and **how many clients** are completed cumulatively.  
